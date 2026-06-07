@@ -58,9 +58,9 @@ Document differences and improvements.
 
 Output:
 
-<img width="1313" height="1198" alt="ChatGPT Image Jun 7, 2026, 04_53_55 PM" src="https://github.com/user-attachments/assets/b84e7162-eeb9-4149-8587-91ef53b1c804" />
+<img width="313" height="198" alt="ChatGPT Image Jun 7, 2026, 04_53_55 PM" src="https://github.com/user-attachments/assets/b84e7162-eeb9-4149-8587-91ef53b1c804" />
 
-<img width="1024" height="1536" alt="ChatGPT Image Jun 7, 2026, 05_11_54 PM" src="https://github.com/user-attachments/assets/27e29581-4b96-41cd-8068-bf472d8c10a3" />
+<img width="024" height="536" alt="ChatGPT Image Jun 7, 2026, 05_11_54 PM" src="https://github.com/user-attachments/assets/27e29581-4b96-41cd-8068-bf472d8c10a3" />
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
