@@ -58,7 +58,7 @@ Document differences and improvements.
 
 Output:
 
-<img width="313" height="198" alt="ChatGPT Image Jun 7, 2026, 04_53_55 PM" src="https://github.com/user-attachments/assets/b84e7162-eeb9-4149-8587-91ef53b1c804" />
+<img width="313" height="398" alt="ChatGPT Image Jun 7, 2026, 04_53_55 PM" src="https://github.com/user-attachments/assets/b84e7162-eeb9-4149-8587-91ef53b1c804" />
 
 <img width="324" height="536" alt="ChatGPT Image Jun 7, 2026, 05_11_54 PM" src="https://github.com/user-attachments/assets/27e29581-4b96-41cd-8068-bf472d8c10a3" />
 
